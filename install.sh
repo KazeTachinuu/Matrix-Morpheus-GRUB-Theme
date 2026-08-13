@@ -1,7 +1,7 @@
 #!/bin/bash
 # ===============================================================
 # Matrix Morpheus GRUB Theme Installer
-# Repository: https://github.com/Priyank-Adhav/Matrix-GRUB-Theme
+# Repository: https://github.com/KazeTachinuu/Matrix-Morpheus-GRUB-Theme
 # ===============================================================
 
 set -e
